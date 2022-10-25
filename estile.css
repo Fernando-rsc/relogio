@@ -1,0 +1,34 @@
+body{
+background: linear-gradient(rgb(255, 0, 195),green,black);
+font: normal 10px Arial;
+}
+
+header{
+color:white;
+text-align: center;
+}
+
+section{
+background:black;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 4px 5px 10px rgba(red, green, blue, alpha);
+color:white;
+}
+
+div{
+text-align: center;
+padding: 9px;
+font: normal 14pt Arial;
+
+}
+
+footer{
+color:white;
+font-style: italic;
+text-align: center;
+
+}
+
